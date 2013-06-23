@@ -23,6 +23,6 @@ techleadershipnews.com | http://techleadershipnews.com | interesting links and c
 
 General:
 
-hackermonthly.com | http://hackermonthly.com/issues.html | best of hacker news
+hackermonthly.com | http://hackermonthly.com/issues.html | best of hacker news (not a newsletter)
 
 hackernewsletter.com | http://www.hackernewsletter.com/ | best articles on startups, technology, programming, and more from hackernews
