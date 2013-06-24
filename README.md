@@ -11,6 +11,8 @@ postgresweekly | http://postgresweekly.com |   PostgreSQL news and articles
 
 rubyweekly.com | http://rubyweekly.com |  Ruby news and articles
 
+pythonweekly.com | http://www.pythonweekly.com/ | curated news, articles, new releases, jobs etc related to Python
+
 nosqlweekly.com | http://nosqlweekly.com | news, articles, new releases, jobs etc related to NoSQL
 
 statuscode | http://statuscode.org | e-mail digest for programmers
