@@ -7,7 +7,7 @@ Tech:
 
 devopsweekly | http://devopsweekly.com | A weekly slice of devops news
 
-foodfightshow | http://foodfightshow.us6.list-manage.com/subscribe?u=7d43a288e882a145b7e99c650&id=ad8186466d | your source for Chef and Cookbook News
+foodfightshow | http://foodfightshow.us6.list-manage.com/subscribe?u=7d43a288e882a145b7e99c650&id=ad8186466d | Devops & Chef news
 
 postgresweekly | http://postgresweekly.com |   PostgreSQL news and articles
 
