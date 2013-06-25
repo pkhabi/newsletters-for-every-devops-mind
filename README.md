@@ -7,6 +7,8 @@ Tech:
 
 devopsweekly | http://devopsweekly.com | A weekly slice of devops news
 
+foodfightshow | http://foodfightshow.us6.list-manage.com/subscribe?u=7d43a288e882a145b7e99c650&id=ad8186466d | your source for Chef and Cookbook News
+
 postgresweekly | http://postgresweekly.com |   PostgreSQL news and articles
 
 rubyweekly.com | http://rubyweekly.com |  Ruby news and articles
@@ -17,7 +19,6 @@ nosqlweekly.com | http://nosqlweekly.com | news, articles, new releases, jobs et
 
 statuscode | http://statuscode.org | e-mail digest for programmers
 
-foodfightshow | http://foodfightshow.us6.list-manage.com/subscribe?u=7d43a288e882a145b7e99c650&id=ad8186466d | your source for Chef and Cookbook News
 
 Business/Leadership/Startup:
 
