@@ -9,7 +9,7 @@ devopsweekly | http://devopsweekly.com | A weekly slice of devops news
 
 devops-toolchain | devops-toolchain@googlegroups.com | discussions around devops
 
-foodfightshow | http://foodfightshow.us6.list-manage.com/subscribe?u=7d43a288e882a145b7e99c650&id=ad8186466d | Devops & Chef news
+foodfightshow | http://foodfightshow.org | Devops & Chef news
 
 postgresweekly | http://postgresweekly.com |   PostgreSQL news and articles
 
